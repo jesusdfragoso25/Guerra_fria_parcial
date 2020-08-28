@@ -1,0 +1,49 @@
+BODY{
+	BACKGROUND-COLOR:#399;
+}
+
+p{
+color:#000;
+Font-family:"Comic Sans MS";
+Font-size:24px;
+font-size:17px;
+font-family:"Comic Sans MS";
+padding-left:100px;
+padding-right:100px;
+margin-left:200px;
+margin-right:200px;
+background-color:#399;
+}
+ul{
+color:#FFF;	
+list-style:none;
+margin:0;
+padding:0;
+width:1340px;
+height:52px;
+background:#999;
+
+}
+li{
+float:left;
+}
+a{
+color:#000;
+text-decoration:none;
+Font-family:"Palatino Linotype";
+Font-size:16px;
+display:block;
+padding:18px 24px;
+}
+
+h2{
+color:#000;
+Font-family:"Comic Sans MS";
+}
+
+iframe{
+background-color:#399;
+margin-left:100px;
+margin-right:400px;
+}
+
